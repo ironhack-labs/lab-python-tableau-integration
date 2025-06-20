@@ -1,0 +1,8 @@
+Tableau Public does not allow publishing workbooks that use analytics extension scripts (TabPy). 
+
+when trying you get this error:
+
+
+Unable to complete action
+The workbook you are attempting to publish contains scripts for an analytics extension. 
+Analytics Extension scripts are not allowed in public workbooks.
